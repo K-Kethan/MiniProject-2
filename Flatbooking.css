@@ -74,8 +74,10 @@
 }
 
 .img2 {
-    height: 45vh;
-    width: 95vw;
+    height: 53vh;
+    width:99vw;
+    background-size:cover;
+    
 }
 
 .color1 {
