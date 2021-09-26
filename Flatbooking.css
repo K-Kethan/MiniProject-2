@@ -40,7 +40,7 @@
 
 .bg-container2 {
     background-color: #222222;
-    height: 100vh;
+    height: 114vh;
     background-size: cover;
     padding: 15px;
 }
@@ -77,7 +77,11 @@
     height: 53vh;
     width:99vw;
     background-size:cover;
+    border-radius:14px;
     
+}
+.cen{
+    text-align:center;
 }
 
 .color1 {
