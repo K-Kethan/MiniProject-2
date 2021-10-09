@@ -34,7 +34,7 @@
     border-width: 0px;
     padding: 9px;
     width: 137px;
-    font-size:22px;
+    font-size:21px;
 }
 
 
@@ -63,7 +63,7 @@
 }
 
 .mini-card-para {
-    font-size: 25px;
+    font-size: 22px;
     font-family: "Bree Serif";
     color: #6c6b70;
 }
@@ -102,8 +102,9 @@
     border-radius: 7px;
     border-width: 0px;
     padding: 9px;
-    width: 120px;
+    width: 140px;
     margin: 20px;
+    font-size:21px;
 }
 
 .img3 {
@@ -113,5 +114,5 @@
 }
 
 .half {
-    height:280px;
+    height:470px;
 }
