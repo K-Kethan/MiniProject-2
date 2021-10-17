@@ -121,6 +121,7 @@
     padding:8px;
     height:100vh;
     background-size:cover;
+    opacity:0.5;
 }
 .cen{
     text-align: center;
@@ -135,8 +136,9 @@
     font-family:"Verdana";
 }
 .headx{
-    color:#f19116;
+    color:#0e5fe3;
     font-size: 33px;
+    font-weight:bold;
     
     
 }
