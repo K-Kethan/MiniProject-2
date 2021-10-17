@@ -116,3 +116,53 @@
 .half {
     height:640px;
 }
+.bg-containerx{
+    background-color: white;
+    padding:8px;
+    height:100vh;
+    background-size:cover;
+}
+.cen{
+    text-align: center;
+}
+.a{
+    font-size: 23px;
+    font-family:"Trebuchet MS";
+}
+.c{
+    font-size: 23.5px;
+    font-weight: bold;
+    font-family:"Verdana";
+}
+.headx{
+    color:#f19116;
+    font-size: 24px;
+    
+    
+}
+.headx1{
+    color:#060e1f;
+    font-size:32px;
+    font-family: "Georgia";
+    font-weight: bold;
+}
+.xyz{
+    height: 2.5px;
+    background-color:black ;
+}
+.but {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size:16px;
+    border-radius: 7px;
+    border-width: 0px;
+    padding: 7px;
+    width: 166px;
+    margin: 20px;
+}
+.imgx{
+    margin-left:19px;
+    margin-right:19px;
+    width:68px;
+    height:58px;
+}
