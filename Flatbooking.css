@@ -136,7 +136,7 @@
 }
 .headx{
     color:#f19116;
-    font-size: 232px;
+    font-size: 33px;
     
     
 }
@@ -153,16 +153,16 @@
 .but {
     background-color: #f19116;
     color: #ffffff;
-    font-size:23px;
-    border-radius: 7px;
+    font-size:24px;
+    border-radius: 8px;
     border-width: 0px;
     padding: 7px;
-    width: 182px;
+    width: 185px;
     margin: 20px;
 }
 .imgx{
-    margin-left:22px;
-    margin-right:24px;
-    width:89px;
-    height:73px;
+    margin-left:29px;
+    margin-right:29px;
+    width:96px;
+    height:79px;
 }
