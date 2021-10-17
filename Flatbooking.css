@@ -117,7 +117,7 @@
     height:640px;
 }
 .bg-containerx{
-    background-color: white;
+    background-color: #fffde8;
     padding:8px;
     height:100vh;
     background-size:cover;
@@ -126,43 +126,43 @@
     text-align: center;
 }
 .a{
-    font-size: 29px;
+    font-size: 29.5px;
     font-family:"Trebuchet MS";
 }
 .c{
-    font-size: 29.5px;
+    font-size: 30px;
     font-weight: bold;
     font-family:"Verdana";
 }
 .headx{
     color:#f19116;
-    font-size: 28px;
+    font-size: 232px;
     
     
 }
 .headx1{
     color:#060e1f;
-    font-size:36px;
+    font-size:37px;
     font-family: "Georgia";
     font-weight: bold;
 }
 .xyz{
-    height: 3px;
+    height: 3.5px;
     background-color:black ;
 }
 .but {
     background-color: #f19116;
     color: #ffffff;
-    font-size:21px;
+    font-size:23px;
     border-radius: 7px;
     border-width: 0px;
     padding: 7px;
-    width: 178px;
+    width: 182px;
     margin: 20px;
 }
 .imgx{
     margin-left:22px;
     margin-right:24px;
-    width:85px;
-    height:69px;
+    width:89px;
+    height:73px;
 }
