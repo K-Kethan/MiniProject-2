@@ -121,7 +121,7 @@
     padding:8px;
     height:100vh;
     background-size:cover;
-    opacity:0.5;
+    
 }
 .cen{
     text-align: center;
@@ -139,6 +139,10 @@
     color:#0e5fe3;
     font-size: 33px;
     font-weight:bold;
+    background-color: #f19116;
+    width:260px;
+    border-radius:5px;
+    padding:4px;
     
     
 }
