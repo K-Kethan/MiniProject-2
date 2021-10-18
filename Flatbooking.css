@@ -137,7 +137,7 @@
     font-family:"Verdana";
 }
 .headx{
-    color:black;
+    color:#ffffff;
     font-size: 33px;
     font-weight:bold;
     background-color: #f19116;
@@ -148,8 +148,8 @@
     
 }
 .headx1{
-    background-color:#f19116;
-    color:#ffffff;
+   
+    color:black;
     width:200px;
     font-size:37px;
     font-family: "Georgia";
