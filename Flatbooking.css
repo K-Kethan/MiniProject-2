@@ -127,12 +127,12 @@
     text-align: center;
 }
 .a{
-    font-size: 28px;
+    font-size: 29px;
     font-weight:bold;
     font-family:"Trebuchet MS";
 }
 .c{
-    font-size: 32px;
+    font-size: 32.3px;
     font-weight: bold;
     font-family:"Verdana";
 }
@@ -141,7 +141,7 @@
     font-size: 33px;
     font-weight:bold;
     background-color: #f19116;
-    width:260px;
+    width:268px;
     border-radius:5px;
     padding:4px;
     
@@ -150,8 +150,8 @@
 .headx1{
    
     color:black;
-    width:200px;
-    font-size:37px;
+    
+    font-size:38px;
     font-family: "Georgia";
     font-weight: bold;
 }
