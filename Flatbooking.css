@@ -138,12 +138,12 @@
 }
 .headx{
     color:#ffffff;
-    font-size: 27px;
+    font-size: 22.3px;
     font-weight:bold;
     background-color: #ffa836;
-    width:285px;
+    width:280px;
     border-radius:5px;
-    padding:7.3px;
+    padding:8px;
     
     
 }
@@ -160,13 +160,13 @@
     background-color:black ;
 }
 .but {
-    background-color: #f19116;
+    background-color: #f08902;
     color: #ffffff;
     font-size:24px;
-    border-radius: 13.2px;
+    border-radius: 14.5px;
     border-width: 0px;
     padding: 7px;
-    width: 185px;
+    width: 189px;
     margin: 20px;
 }
 .imgx{
