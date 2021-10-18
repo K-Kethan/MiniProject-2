@@ -138,10 +138,10 @@
 }
 .headx{
     color:#ffffff;
-    font-size: 30.5px;
+    font-size: 30px;
     font-weight:bold;
-    background-color: #f19116;
-    width:286px;
+    background-color: #f5961b;
+    width:285px;
     border-radius:5.3px;
     padding:6px;
     
@@ -151,7 +151,7 @@
    
     color:black;
     
-    font-size:38px;
+    font-size:40px;
     font-family: "Georgia";
     font-weight: bold;
 }
